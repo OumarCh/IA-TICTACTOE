@@ -18,7 +18,7 @@ Détails sur l'algorithme:
 * https://en.wikipedia.org/wiki/Minimax
 
 # LES TECHNOLOGIES UTILISEES
-Python, Minimax, Negamax, Flask
+Python, Minimax (Notebook), Negamax, Flask
 
 # CREDIT
 
