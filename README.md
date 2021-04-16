@@ -1,4 +1,5 @@
 # IA-TICTACTOE
+Un programme d'IA tic-tac-toe qui ne perd jamais. Ce programme utilise l'algorithme minimax avec élagage alpha-bêta pour réduire l'espace de recherche.
 
 # NEGAMAX
 L'algorithme negamax recherche et évalue les futurs mouvements possibles. C'est une variation de l'algorithme minimax qui est optimisé pour les jeux où la "valeur" de l'état d'un jeu pour un joueur est directement inverse de la valeur pour le joueur adverse. C'est ce qu'on appelle un [jeu à somme nulle] (https://en.wikipedia.org/wiki/Zero-sum_game).
